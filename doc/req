@@ -1,0 +1,60 @@
+# AI Property Management Voice Line
+
+## Video Inspiration
+
+https://youtu.be/pYsK9dfUnYA
+
+
+### Project Idea and High-Level Buleet Points
+
+The project idea focuses on an AI-powered property management voice line designed to automate and streamline maintenance requests from tenants. Instead of a human manually handling calls, a sophisticated AI system can manage the process from start to finish. This not only improves efficiency but also ensures that urgent requests are addressed promptly.
+
+Key features of the AI property manager voice line include:
+* **Tenant Calls**: Tenants call a dedicated number to report maintenance issues.
+* **Real-Time Transcription**: The AI transcribes the tenant’s spoken words into text in real-time.
+* **Issue Classification**: The system classifies the issue as either urgent or non-urgent based on keywords and context.
+* **Automated Ticketing**: The AI creates a ticket in the property management system, prioritizing it based on urgency.
+* **Vendor Dispatch**: For urgent issues, the system automatically dispatches a request to a vendor with all necessary details.
+* **SMS Notifications**: Tenants receive SMS notifications with updates, including the estimated time of arrival and a link to their ticket.
+* **Troubleshooting Support**: For non-urgent issues, the AI can send troubleshooting steps via SMS.
+
+### Third-Party Tools and Pricing
+
+To build a functional demo of this AI property management voice line, you'll need a combination of third-party tools. Here's a list of the essential services, along with their pricing details:
+
+* **Vapi**: A platform for building voice AI applications.
+   * **Pricing**: Vapi offers a free tier that includes up to 100 minutes of voice interaction per month. Paid plans start at $20/month for additional minutes and features.
+   * **Credit Card**: A credit card is not required to sign up for the free tier.
+
+* **ElevenLabs**: A text-to-speech service that provides natural-sounding voices for the AI.
+   * **Pricing**: ElevenLabs offers a free tier with a limited number of characters per month. Paid plans start at $5/month for more characters and advanced features.
+   * **Credit Card**: A credit card is not required for the free tier.
+
+* **Deepgram**: A speech-to-text service that converts spoken language into text.
+   * **Pricing**: Deepgram provides a free tier with a certain number of transcription hours per month. Paid plans are usage-based, starting at a few cents per minute.
+   * **Credit Card**: A credit card is required to sign up for the free tier.
+
+* **AppFolio**: A property management software that can be integrated with the AI to manage maintenance tickets.
+   * **Pricing**: AppFolio does not offer a free tier. Pricing is based on the number of units managed, with custom quotes available.
+   * **Credit Card**: A credit card is not required for a demo or quote.
+
+* **Buildium**: An alternative property management software with similar features to AppFolio.
+   * **Pricing**: Buildium offers a free trial, but there is no permanent free tier. Paid plans start at $50/month.
+   * **Credit Card**: A credit card is required for the free trial.
+
+* **Twilio**: A communication platform for sending SMS notifications.
+   * **Pricing**: Twilio offers a free trial with a limited number of SMS messages. Paid plans are usage-based, with prices varying by country.
+   * **Credit Card**: A credit card is required for the free trial.
+
+### Sample Demo Requirements
+
+To create a sample demo of the AI property management voice line, you will need the following:
+* A Vapi account to build and manage the voice AI.
+* An ElevenLabs account to generate the AI's voice.
+* A Deepgram account for real-time transcription.
+* An AppFolio or Buildium account to manage maintenance tickets (you can use their free trials for the demo).
+* A Twilio account for sending SMS notifications (free trial available).
+* A clear and concise script for the voice AI to follow during the demo.
+* A list of sample maintenance requests, including both urgent and non-urgent issues.
+
+By combining these tools and resources, you can create a compelling demo that showcases the power and potential of an AI-powered property management voice line.
