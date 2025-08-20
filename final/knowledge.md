@@ -1,17 +1,15 @@
 # Knowledge
 
-
 ## QnA
 
 - Can we use ElevenLabs?
 A: Yes, we can use ElevenLabs to generate a custom voice for the AI assistant.
 
+- Can we use Vapi to generate a custom voice for the AI assistant?
+A: Yes, we can use Vapi to generate a custom voice for the AI assistant.
 
-
-
-
-
-
+- Can we use Vapi to generate a custom voice for the AI assistant?
+A: Yes, we can use Vapi to generate a custom voice for the AI assistant.
 
 
 
