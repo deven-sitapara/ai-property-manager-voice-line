@@ -1,0 +1,3358 @@
+{
+    "metadata": {
+      "transaction_key": "deprecated",
+      "request_id": "219ce63c-54f2-4b5c-9fde-e63dfae15745",
+      "sha256": "16fcb8e5f029ca02aeefb30d508d8d268ca17f23c95fd0b7dfdd9c0fc510e532",
+      "created": "2025-08-20T05:57:50.913Z",
+      "duration": 202.74,
+      "channels": 1,
+      "models": [
+        "1abfe86b-e047-4eed-858a-35e5625b41ee"
+      ],
+      "model_info": {
+        "1abfe86b-e047-4eed-858a-35e5625b41ee": {
+          "name": "2-general-nova",
+          "version": "2024-01-06.5664",
+          "arch": "nova-2"
+        }
+      }
+    },
+    "results": {
+      "channels": [
+        {
+          "alternatives": [
+            {
+              "transcript": "Thank you for calling Wellness Partners. This is Riley, your scheduling assistant. How may I help you today? Hi, Riley. Can you hear me? Yes. I Sorry. Yes. I can hear you. How may I assist you today? I'm a software developer. Can you hear me? I'm here to help you with scheduling an appointment at Wellness Partners. How may I assist you with your health care needs today? Oh, great. I'm glad to hear that. What type of appointment are are you looking to schedule today? Just testing the CAPI. Got it. Thanks for letting me know. If you ever need help scheduling a real appointment at Wellness Partners, I'll be here to assist. Have a great day. Please wait. Wait. Wait. Of course. Take your time. I'm here whenever you're ready. Yeah. Thank you. You're welcome. If you have any other questions or need assistance in the future, feel free to reach out. Have a great day. Great. Sure. I'll wait. Let me know when you're ready. I want to book a electrician for my lighting issue. I'm sorry, but I can only assist with scheduling appointments for health care services at Wellness Partners. If you need help with lighting issues, I recommend contacting a local electrician directly. Is there anything else I can help you with regarding health care appointments? I want to book appointments. I understand. If you have any health care needs or, need to schedule an appointment at Wellness Partners, I'm here to assist. If there's anything specific you'd like help with, please let me know. I want to look for dentist. Got it. You're looking to schedule a dental appointment. While Wellness Partners specializes in medical and wellness care, we don't currently offer dental services. I'd recommend reaching out to a dental clinic in your area for assistance. If there's anything else I can help you with, like scheduling a medical or wellness appointment, feel free to let me know. I want to book a yoga teacher. Wellness Partners doesn't specifically offer yoga instruction, but we do provide, wellness services like nutrition counseling, physical therapy, and mental health support. If you're interested in any of those, I can help schedule an appointment. For yoga classes, I recommend reaching out to a local yoga studio or instructor. Let me know if there's anything else I can assist you with. Okay. Thank you. You're welcome. If you ever need assistance with scheduling a health care appointment at Wellness Partners, feel free to reach out.",
+              "confidence": 0.99966264,
+              "words": [
+                {
+                  "word": "thank",
+                  "start": 0.32,
+                  "end": 0.48,
+                  "confidence": 0.9977285,
+                  "punctuated_word": "Thank"
+                },
+                {
+                  "word": "you",
+                  "start": 0.48,
+                  "end": 0.71999997,
+                  "confidence": 0.999923,
+                  "punctuated_word": "you"
+                },
+                {
+                  "word": "for",
+                  "start": 0.71999997,
+                  "end": 1.04,
+                  "confidence": 0.99986875,
+                  "punctuated_word": "for"
+                },
+                {
+                  "word": "calling",
+                  "start": 1.04,
+                  "end": 1.54,
+                  "confidence": 0.99989045,
+                  "punctuated_word": "calling"
+                },
+                {
+                  "word": "wellness",
+                  "start": 1.5999999,
+                  "end": 2.1,
+                  "confidence": 0.94833124,
+                  "punctuated_word": "Wellness"
+                },
+                {
+                  "word": "partners",
+                  "start": 2.1599998,
+                  "end": 2.6599998,
+                  "confidence": 0.99908763,
+                  "punctuated_word": "Partners."
+                },
+                {
+                  "word": "this",
+                  "start": 2.8,
+                  "end": 3.04,
+                  "confidence": 0.99993193,
+                  "punctuated_word": "This"
+                },
+                {
+                  "word": "is",
+                  "start": 3.04,
+                  "end": 3.1999998,
+                  "confidence": 0.9999585,
+                  "punctuated_word": "is"
+                },
+                {
+                  "word": "riley",
+                  "start": 3.1999998,
+                  "end": 3.6799998,
+                  "confidence": 0.98957586,
+                  "punctuated_word": "Riley,"
+                },
+                {
+                  "word": "your",
+                  "start": 3.6799998,
+                  "end": 3.9199998,
+                  "confidence": 0.99919385,
+                  "punctuated_word": "your"
+                },
+                {
+                  "word": "scheduling",
+                  "start": 3.9199998,
+                  "end": 4.3199997,
+                  "confidence": 0.9998975,
+                  "punctuated_word": "scheduling"
+                },
+                {
+                  "word": "assistant",
+                  "start": 4.3199997,
+                  "end": 4.8199997,
+                  "confidence": 0.9827472,
+                  "punctuated_word": "assistant."
+                },
+                {
+                  "word": "how",
+                  "start": 5.12,
+                  "end": 5.3599997,
+                  "confidence": 0.99990344,
+                  "punctuated_word": "How"
+                },
+                {
+                  "word": "may",
+                  "start": 5.3599997,
+                  "end": 5.52,
+                  "confidence": 0.999925,
+                  "punctuated_word": "may"
+                },
+                {
+                  "word": "i",
+                  "start": 5.52,
+                  "end": 5.68,
+                  "confidence": 0.9999422,
+                  "punctuated_word": "I"
+                },
+                {
+                  "word": "help",
+                  "start": 5.68,
+                  "end": 5.8399997,
+                  "confidence": 0.9999627,
+                  "punctuated_word": "help"
+                },
+                {
+                  "word": "you",
+                  "start": 5.8399997,
+                  "end": 6,
+                  "confidence": 0.9999387,
+                  "punctuated_word": "you"
+                },
+                {
+                  "word": "today",
+                  "start": 6,
+                  "end": 6.5,
+                  "confidence": 0.99983376,
+                  "punctuated_word": "today?"
+                },
+                {
+                  "word": "hi",
+                  "start": 9.2,
+                  "end": 9.5199995,
+                  "confidence": 0.9809394,
+                  "punctuated_word": "Hi,"
+                },
+                {
+                  "word": "riley",
+                  "start": 9.5199995,
+                  "end": 10.0199995,
+                  "confidence": 0.99576217,
+                  "punctuated_word": "Riley."
+                },
+                {
+                  "word": "can",
+                  "start": 10.48,
+                  "end": 10.8,
+                  "confidence": 0.969138,
+                  "punctuated_word": "Can"
+                },
+                {
+                  "word": "you",
+                  "start": 10.8,
+                  "end": 10.88,
+                  "confidence": 0.99153554,
+                  "punctuated_word": "you"
+                },
+                {
+                  "word": "hear",
+                  "start": 10.88,
+                  "end": 11.2,
+                  "confidence": 0.993926,
+                  "punctuated_word": "hear"
+                },
+                {
+                  "word": "me",
+                  "start": 11.2,
+                  "end": 11.7,
+                  "confidence": 0.74452055,
+                  "punctuated_word": "me?"
+                },
+                {
+                  "word": "yes",
+                  "start": 13.525,
+                  "end": 13.684999,
+                  "confidence": 0.99627686,
+                  "punctuated_word": "Yes."
+                },
+                {
+                  "word": "i",
+                  "start": 13.684999,
+                  "end": 14.085,
+                  "confidence": 0.97564995,
+                  "punctuated_word": "I"
+                },
+                {
+                  "word": "sorry",
+                  "start": 15.205,
+                  "end": 15.705,
+                  "confidence": 0.5702088,
+                  "punctuated_word": "Sorry."
+                },
+                {
+                  "word": "yes",
+                  "start": 16.725,
+                  "end": 17.045,
+                  "confidence": 0.7263537,
+                  "punctuated_word": "Yes."
+                },
+                {
+                  "word": "i",
+                  "start": 17.045,
+                  "end": 17.125,
+                  "confidence": 0.99833894,
+                  "punctuated_word": "I"
+                },
+                {
+                  "word": "can",
+                  "start": 17.125,
+                  "end": 17.285,
+                  "confidence": 0.9997075,
+                  "punctuated_word": "can"
+                },
+                {
+                  "word": "hear",
+                  "start": 17.285,
+                  "end": 17.525,
+                  "confidence": 0.99966264,
+                  "punctuated_word": "hear"
+                },
+                {
+                  "word": "you",
+                  "start": 17.525,
+                  "end": 17.925,
+                  "confidence": 0.9998226,
+                  "punctuated_word": "you."
+                },
+                {
+                  "word": "how",
+                  "start": 17.925,
+                  "end": 18.165,
+                  "confidence": 0.9972366,
+                  "punctuated_word": "How"
+                },
+                {
+                  "word": "may",
+                  "start": 18.165,
+                  "end": 18.325,
+                  "confidence": 0.9998318,
+                  "punctuated_word": "may"
+                },
+                {
+                  "word": "i",
+                  "start": 18.325,
+                  "end": 18.485,
+                  "confidence": 0.9998431,
+                  "punctuated_word": "I"
+                },
+                {
+                  "word": "assist",
+                  "start": 18.485,
+                  "end": 18.725,
+                  "confidence": 0.9998847,
+                  "punctuated_word": "assist"
+                },
+                {
+                  "word": "you",
+                  "start": 18.725,
+                  "end": 18.965,
+                  "confidence": 0.9999672,
+                  "punctuated_word": "you"
+                },
+                {
+                  "word": "today",
+                  "start": 18.965,
+                  "end": 19.465,
+                  "confidence": 0.99988407,
+                  "punctuated_word": "today?"
+                },
+                {
+                  "word": "i'm",
+                  "start": 20.325,
+                  "end": 20.645,
+                  "confidence": 0.98367727,
+                  "punctuated_word": "I'm"
+                },
+                {
+                  "word": "a",
+                  "start": 20.645,
+                  "end": 20.805,
+                  "confidence": 0.9954574,
+                  "punctuated_word": "a"
+                },
+                {
+                  "word": "software",
+                  "start": 20.805,
+                  "end": 21.285,
+                  "confidence": 0.9930629,
+                  "punctuated_word": "software"
+                },
+                {
+                  "word": "developer",
+                  "start": 21.285,
+                  "end": 21.765,
+                  "confidence": 0.89283824,
+                  "punctuated_word": "developer."
+                },
+                {
+                  "word": "can",
+                  "start": 21.765,
+                  "end": 21.925,
+                  "confidence": 0.8506496,
+                  "punctuated_word": "Can"
+                },
+                {
+                  "word": "you",
+                  "start": 21.925,
+                  "end": 22.085,
+                  "confidence": 0.9774631,
+                  "punctuated_word": "you"
+                },
+                {
+                  "word": "hear",
+                  "start": 22.085,
+                  "end": 22.244999,
+                  "confidence": 0.805884,
+                  "punctuated_word": "hear"
+                },
+                {
+                  "word": "me",
+                  "start": 22.244999,
+                  "end": 22.744999,
+                  "confidence": 0.98561,
+                  "punctuated_word": "me?"
+                },
+                {
+                  "word": "i'm",
+                  "start": 23.925,
+                  "end": 24.165,
+                  "confidence": 0.99835354,
+                  "punctuated_word": "I'm"
+                },
+                {
+                  "word": "here",
+                  "start": 24.165,
+                  "end": 24.325,
+                  "confidence": 0.99980325,
+                  "punctuated_word": "here"
+                },
+                {
+                  "word": "to",
+                  "start": 24.325,
+                  "end": 24.485,
+                  "confidence": 0.9997961,
+                  "punctuated_word": "to"
+                },
+                {
+                  "word": "help",
+                  "start": 24.485,
+                  "end": 24.645,
+                  "confidence": 0.9999732,
+                  "punctuated_word": "help"
+                },
+                {
+                  "word": "you",
+                  "start": 24.645,
+                  "end": 24.805,
+                  "confidence": 0.99974614,
+                  "punctuated_word": "you"
+                },
+                {
+                  "word": "with",
+                  "start": 24.805,
+                  "end": 25.125,
+                  "confidence": 0.9999678,
+                  "punctuated_word": "with"
+                },
+                {
+                  "word": "scheduling",
+                  "start": 25.125,
+                  "end": 25.605,
+                  "confidence": 0.99993575,
+                  "punctuated_word": "scheduling"
+                },
+                {
+                  "word": "an",
+                  "start": 25.605,
+                  "end": 25.765,
+                  "confidence": 0.999376,
+                  "punctuated_word": "an"
+                },
+                {
+                  "word": "appointment",
+                  "start": 25.765,
+                  "end": 26.265,
+                  "confidence": 0.99895084,
+                  "punctuated_word": "appointment"
+                },
+                {
+                  "word": "at",
+                  "start": 26.485,
+                  "end": 26.724998,
+                  "confidence": 0.9996493,
+                  "punctuated_word": "at"
+                },
+                {
+                  "word": "wellness",
+                  "start": 26.724998,
+                  "end": 27.125,
+                  "confidence": 0.9257338,
+                  "punctuated_word": "Wellness"
+                },
+                {
+                  "word": "partners",
+                  "start": 27.125,
+                  "end": 27.625,
+                  "confidence": 0.99950725,
+                  "punctuated_word": "Partners."
+                },
+                {
+                  "word": "how",
+                  "start": 27.92,
+                  "end": 28.16,
+                  "confidence": 0.99989784,
+                  "punctuated_word": "How"
+                },
+                {
+                  "word": "may",
+                  "start": 28.16,
+                  "end": 28.32,
+                  "confidence": 0.9998901,
+                  "punctuated_word": "may"
+                },
+                {
+                  "word": "i",
+                  "start": 28.32,
+                  "end": 28.48,
+                  "confidence": 0.99981517,
+                  "punctuated_word": "I"
+                },
+                {
+                  "word": "assist",
+                  "start": 28.48,
+                  "end": 28.8,
+                  "confidence": 0.99997175,
+                  "punctuated_word": "assist"
+                },
+                {
+                  "word": "you",
+                  "start": 28.8,
+                  "end": 29.04,
+                  "confidence": 0.99988985,
+                  "punctuated_word": "you"
+                },
+                {
+                  "word": "with",
+                  "start": 29.04,
+                  "end": 29.28,
+                  "confidence": 0.9999523,
+                  "punctuated_word": "with"
+                },
+                {
+                  "word": "your",
+                  "start": 29.28,
+                  "end": 29.52,
+                  "confidence": 0.99987566,
+                  "punctuated_word": "your"
+                },
+                {
+                  "word": "health",
+                  "start": 29.52,
+                  "end": 29.68,
+                  "confidence": 0.91669637,
+                  "punctuated_word": "health"
+                },
+                {
+                  "word": "care",
+                  "start": 29.68,
+                  "end": 29.92,
+                  "confidence": 0.9992918,
+                  "punctuated_word": "care"
+                },
+                {
+                  "word": "needs",
+                  "start": 29.92,
+                  "end": 30.32,
+                  "confidence": 0.9996847,
+                  "punctuated_word": "needs"
+                },
+                {
+                  "word": "today",
+                  "start": 30.32,
+                  "end": 30.82,
+                  "confidence": 0.9995458,
+                  "punctuated_word": "today?"
+                },
+                {
+                  "word": "oh",
+                  "start": 32.96,
+                  "end": 33.28,
+                  "confidence": 0.63056433,
+                  "punctuated_word": "Oh,"
+                },
+                {
+                  "word": "great",
+                  "start": 33.28,
+                  "end": 33.78,
+                  "confidence": 0.7983018,
+                  "punctuated_word": "great."
+                },
+                {
+                  "word": "i'm",
+                  "start": 36.8,
+                  "end": 37.04,
+                  "confidence": 0.997973,
+                  "punctuated_word": "I'm"
+                },
+                {
+                  "word": "glad",
+                  "start": 37.04,
+                  "end": 37.2,
+                  "confidence": 0.99986386,
+                  "punctuated_word": "glad"
+                },
+                {
+                  "word": "to",
+                  "start": 37.2,
+                  "end": 37.36,
+                  "confidence": 0.9996352,
+                  "punctuated_word": "to"
+                },
+                {
+                  "word": "hear",
+                  "start": 37.36,
+                  "end": 37.52,
+                  "confidence": 0.9999782,
+                  "punctuated_word": "hear"
+                },
+                {
+                  "word": "that",
+                  "start": 37.52,
+                  "end": 38.02,
+                  "confidence": 0.99989665,
+                  "punctuated_word": "that."
+                },
+                {
+                  "word": "what",
+                  "start": 38.559998,
+                  "end": 38.8,
+                  "confidence": 0.99909604,
+                  "punctuated_word": "What"
+                },
+                {
+                  "word": "type",
+                  "start": 38.8,
+                  "end": 39.04,
+                  "confidence": 0.9999199,
+                  "punctuated_word": "type"
+                },
+                {
+                  "word": "of",
+                  "start": 39.04,
+                  "end": 39.2,
+                  "confidence": 0.999879,
+                  "punctuated_word": "of"
+                },
+                {
+                  "word": "appointment",
+                  "start": 39.2,
+                  "end": 39.68,
+                  "confidence": 0.99888164,
+                  "punctuated_word": "appointment"
+                },
+                {
+                  "word": "are",
+                  "start": 39.68,
+                  "end": 39.84,
+                  "confidence": 0.9996581,
+                  "punctuated_word": "are"
+                },
+                {
+                  "word": "are",
+                  "start": 39.84,
+                  "end": 40,
+                  "confidence": 0.9902311,
+                  "punctuated_word": "are"
+                },
+                {
+                  "word": "you",
+                  "start": 40,
+                  "end": 40.16,
+                  "confidence": 0.99968374,
+                  "punctuated_word": "you"
+                },
+                {
+                  "word": "looking",
+                  "start": 40.16,
+                  "end": 40.4,
+                  "confidence": 0.9998895,
+                  "punctuated_word": "looking"
+                },
+                {
+                  "word": "to",
+                  "start": 40.4,
+                  "end": 40.559998,
+                  "confidence": 0.9997557,
+                  "punctuated_word": "to"
+                },
+                {
+                  "word": "schedule",
+                  "start": 40.559998,
+                  "end": 40.88,
+                  "confidence": 0.9998839,
+                  "punctuated_word": "schedule"
+                },
+                {
+                  "word": "today",
+                  "start": 40.88,
+                  "end": 41.38,
+                  "confidence": 0.9996028,
+                  "punctuated_word": "today?"
+                },
+                {
+                  "word": "just",
+                  "start": 44.745,
+                  "end": 44.985,
+                  "confidence": 0.44415948,
+                  "punctuated_word": "Just"
+                },
+                {
+                  "word": "testing",
+                  "start": 44.985,
+                  "end": 45.385,
+                  "confidence": 0.8020996,
+                  "punctuated_word": "testing"
+                },
+                {
+                  "word": "the",
+                  "start": 45.385,
+                  "end": 45.625,
+                  "confidence": 0.9160906,
+                  "punctuated_word": "the"
+                },
+                {
+                  "word": "capi",
+                  "start": 45.625,
+                  "end": 46.125,
+                  "confidence": 0.57894254,
+                  "punctuated_word": "CAPI."
+                },
+                {
+                  "word": "got",
+                  "start": 48.185,
+                  "end": 48.425,
+                  "confidence": 0.99963605,
+                  "punctuated_word": "Got"
+                },
+                {
+                  "word": "it",
+                  "start": 48.425,
+                  "end": 48.585,
+                  "confidence": 0.99977714,
+                  "punctuated_word": "it."
+                },
+                {
+                  "word": "thanks",
+                  "start": 48.585,
+                  "end": 48.825,
+                  "confidence": 0.9994398,
+                  "punctuated_word": "Thanks"
+                },
+                {
+                  "word": "for",
+                  "start": 48.825,
+                  "end": 48.985,
+                  "confidence": 0.9996952,
+                  "punctuated_word": "for"
+                },
+                {
+                  "word": "letting",
+                  "start": 48.985,
+                  "end": 49.225,
+                  "confidence": 0.9999598,
+                  "punctuated_word": "letting"
+                },
+                {
+                  "word": "me",
+                  "start": 49.225,
+                  "end": 49.385,
+                  "confidence": 0.9999541,
+                  "punctuated_word": "me"
+                },
+                {
+                  "word": "know",
+                  "start": 49.385,
+                  "end": 49.885,
+                  "confidence": 0.99973315,
+                  "punctuated_word": "know."
+                },
+                {
+                  "word": "if",
+                  "start": 50.105,
+                  "end": 50.345,
+                  "confidence": 0.99897516,
+                  "punctuated_word": "If"
+                },
+                {
+                  "word": "you",
+                  "start": 50.345,
+                  "end": 50.425,
+                  "confidence": 0.99995434,
+                  "punctuated_word": "you"
+                },
+                {
+                  "word": "ever",
+                  "start": 50.425,
+                  "end": 50.745,
+                  "confidence": 0.9999275,
+                  "punctuated_word": "ever"
+                },
+                {
+                  "word": "need",
+                  "start": 50.745,
+                  "end": 51.065,
+                  "confidence": 0.99978095,
+                  "punctuated_word": "need"
+                },
+                {
+                  "word": "help",
+                  "start": 51.065,
+                  "end": 51.565,
+                  "confidence": 0.99521196,
+                  "punctuated_word": "help"
+                },
+                {
+                  "word": "scheduling",
+                  "start": 51.625,
+                  "end": 52.125,
+                  "confidence": 0.994541,
+                  "punctuated_word": "scheduling"
+                },
+                {
+                  "word": "a",
+                  "start": 52.265,
+                  "end": 52.505,
+                  "confidence": 0.7891411,
+                  "punctuated_word": "a"
+                },
+                {
+                  "word": "real",
+                  "start": 52.505,
+                  "end": 52.745,
+                  "confidence": 0.83386844,
+                  "punctuated_word": "real"
+                },
+                {
+                  "word": "appointment",
+                  "start": 52.745,
+                  "end": 53.245,
+                  "confidence": 0.99967074,
+                  "punctuated_word": "appointment"
+                },
+                {
+                  "word": "at",
+                  "start": 53.465,
+                  "end": 53.625,
+                  "confidence": 0.9944377,
+                  "punctuated_word": "at"
+                },
+                {
+                  "word": "wellness",
+                  "start": 53.625,
+                  "end": 54.025,
+                  "confidence": 0.95612836,
+                  "punctuated_word": "Wellness"
+                },
+                {
+                  "word": "partners",
+                  "start": 54.025,
+                  "end": 54.525,
+                  "confidence": 0.99288183,
+                  "punctuated_word": "Partners,"
+                },
+                {
+                  "word": "i'll",
+                  "start": 54.745,
+                  "end": 54.905,
+                  "confidence": 0.99985826,
+                  "punctuated_word": "I'll"
+                },
+                {
+                  "word": "be",
+                  "start": 54.905,
+                  "end": 54.985,
+                  "confidence": 0.9999782,
+                  "punctuated_word": "be"
+                },
+                {
+                  "word": "here",
+                  "start": 54.985,
+                  "end": 55.225,
+                  "confidence": 0.9997924,
+                  "punctuated_word": "here"
+                },
+                {
+                  "word": "to",
+                  "start": 55.225,
+                  "end": 55.385,
+                  "confidence": 0.999522,
+                  "punctuated_word": "to"
+                },
+                {
+                  "word": "assist",
+                  "start": 55.385,
+                  "end": 55.885,
+                  "confidence": 0.9996957,
+                  "punctuated_word": "assist."
+                },
+                {
+                  "word": "have",
+                  "start": 55.945,
+                  "end": 56.184998,
+                  "confidence": 0.9995024,
+                  "punctuated_word": "Have"
+                },
+                {
+                  "word": "a",
+                  "start": 56.184998,
+                  "end": 56.265,
+                  "confidence": 0.9997987,
+                  "punctuated_word": "a"
+                },
+                {
+                  "word": "great",
+                  "start": 56.265,
+                  "end": 56.425,
+                  "confidence": 0.9999502,
+                  "punctuated_word": "great"
+                },
+                {
+                  "word": "day",
+                  "start": 56.425,
+                  "end": 56.925,
+                  "confidence": 0.9996481,
+                  "punctuated_word": "day."
+                },
+                {
+                  "word": "please",
+                  "start": 58.670002,
+                  "end": 58.99,
+                  "confidence": 0.83213335,
+                  "punctuated_word": "Please"
+                },
+                {
+                  "word": "wait",
+                  "start": 58.99,
+                  "end": 59.49,
+                  "confidence": 0.7931466,
+                  "punctuated_word": "wait."
+                },
+                {
+                  "word": "wait",
+                  "start": 61.95,
+                  "end": 62.45,
+                  "confidence": 0.8073454,
+                  "punctuated_word": "Wait."
+                },
+                {
+                  "word": "wait",
+                  "start": 63.39,
+                  "end": 63.89,
+                  "confidence": 0.98583794,
+                  "punctuated_word": "Wait."
+                },
+                {
+                  "word": "of",
+                  "start": 64.83,
+                  "end": 64.99,
+                  "confidence": 0.99942434,
+                  "punctuated_word": "Of"
+                },
+                {
+                  "word": "course",
+                  "start": 64.99,
+                  "end": 65.49,
+                  "confidence": 0.9972224,
+                  "punctuated_word": "course."
+                },
+                {
+                  "word": "take",
+                  "start": 65.71,
+                  "end": 66.03,
+                  "confidence": 0.9996505,
+                  "punctuated_word": "Take"
+                },
+                {
+                  "word": "your",
+                  "start": 66.03,
+                  "end": 66.19,
+                  "confidence": 0.99974626,
+                  "punctuated_word": "your"
+                },
+                {
+                  "word": "time",
+                  "start": 66.19,
+                  "end": 66.69,
+                  "confidence": 0.9995686,
+                  "punctuated_word": "time."
+                },
+                {
+                  "word": "i'm",
+                  "start": 66.75,
+                  "end": 67.07,
+                  "confidence": 0.99989057,
+                  "punctuated_word": "I'm"
+                },
+                {
+                  "word": "here",
+                  "start": 67.07,
+                  "end": 67.55,
+                  "confidence": 0.9999709,
+                  "punctuated_word": "here"
+                },
+                {
+                  "word": "whenever",
+                  "start": 67.55,
+                  "end": 67.87,
+                  "confidence": 0.98861027,
+                  "punctuated_word": "whenever"
+                },
+                {
+                  "word": "you're",
+                  "start": 67.87,
+                  "end": 68.11,
+                  "confidence": 0.9997867,
+                  "punctuated_word": "you're"
+                },
+                {
+                  "word": "ready",
+                  "start": 68.11,
+                  "end": 68.61,
+                  "confidence": 0.99988174,
+                  "punctuated_word": "ready."
+                },
+                {
+                  "word": "yeah",
+                  "start": 70.205,
+                  "end": 70.525,
+                  "confidence": 0.9962628,
+                  "punctuated_word": "Yeah."
+                },
+                {
+                  "word": "thank",
+                  "start": 70.525,
+                  "end": 70.765,
+                  "confidence": 0.9973379,
+                  "punctuated_word": "Thank"
+                },
+                {
+                  "word": "you",
+                  "start": 70.765,
+                  "end": 71.265,
+                  "confidence": 0.9996352,
+                  "punctuated_word": "you."
+                },
+                {
+                  "word": "you're",
+                  "start": 72.605,
+                  "end": 72.845,
+                  "confidence": 0.999118,
+                  "punctuated_word": "You're"
+                },
+                {
+                  "word": "welcome",
+                  "start": 72.845,
+                  "end": 73.345,
+                  "confidence": 0.99972415,
+                  "punctuated_word": "welcome."
+                },
+                {
+                  "word": "if",
+                  "start": 73.485,
+                  "end": 73.645004,
+                  "confidence": 0.89336425,
+                  "punctuated_word": "If"
+                },
+                {
+                  "word": "you",
+                  "start": 73.645004,
+                  "end": 73.805,
+                  "confidence": 0.99955636,
+                  "punctuated_word": "you"
+                },
+                {
+                  "word": "have",
+                  "start": 73.805,
+                  "end": 73.965004,
+                  "confidence": 0.99919564,
+                  "punctuated_word": "have"
+                },
+                {
+                  "word": "any",
+                  "start": 73.965004,
+                  "end": 74.125,
+                  "confidence": 0.99957925,
+                  "punctuated_word": "any"
+                },
+                {
+                  "word": "other",
+                  "start": 74.125,
+                  "end": 74.445,
+                  "confidence": 0.9989016,
+                  "punctuated_word": "other"
+                },
+                {
+                  "word": "questions",
+                  "start": 74.445,
+                  "end": 74.925,
+                  "confidence": 0.9961389,
+                  "punctuated_word": "questions"
+                },
+                {
+                  "word": "or",
+                  "start": 74.925,
+                  "end": 75.165,
+                  "confidence": 0.9799115,
+                  "punctuated_word": "or"
+                },
+                {
+                  "word": "need",
+                  "start": 75.165,
+                  "end": 75.405,
+                  "confidence": 0.99361354,
+                  "punctuated_word": "need"
+                },
+                {
+                  "word": "assistance",
+                  "start": 75.405,
+                  "end": 75.885,
+                  "confidence": 0.9995453,
+                  "punctuated_word": "assistance"
+                },
+                {
+                  "word": "in",
+                  "start": 75.885,
+                  "end": 76.045,
+                  "confidence": 0.99828845,
+                  "punctuated_word": "in"
+                },
+                {
+                  "word": "the",
+                  "start": 76.045,
+                  "end": 76.125,
+                  "confidence": 0.9997352,
+                  "punctuated_word": "the"
+                },
+                {
+                  "word": "future",
+                  "start": 76.125,
+                  "end": 76.625,
+                  "confidence": 0.99858326,
+                  "punctuated_word": "future,"
+                },
+                {
+                  "word": "feel",
+                  "start": 76.765,
+                  "end": 77.005,
+                  "confidence": 0.9997075,
+                  "punctuated_word": "feel"
+                },
+                {
+                  "word": "free",
+                  "start": 77.005,
+                  "end": 77.165,
+                  "confidence": 0.99994445,
+                  "punctuated_word": "free"
+                },
+                {
+                  "word": "to",
+                  "start": 77.165,
+                  "end": 77.245,
+                  "confidence": 0.9993542,
+                  "punctuated_word": "to"
+                },
+                {
+                  "word": "reach",
+                  "start": 77.245,
+                  "end": 77.485,
+                  "confidence": 0.9999466,
+                  "punctuated_word": "reach"
+                },
+                {
+                  "word": "out",
+                  "start": 77.485,
+                  "end": 77.985,
+                  "confidence": 0.9996685,
+                  "punctuated_word": "out."
+                },
+                {
+                  "word": "have",
+                  "start": 78.285,
+                  "end": 78.525,
+                  "confidence": 0.99885106,
+                  "punctuated_word": "Have"
+                },
+                {
+                  "word": "a",
+                  "start": 78.525,
+                  "end": 78.605,
+                  "confidence": 0.9998838,
+                  "punctuated_word": "a"
+                },
+                {
+                  "word": "great",
+                  "start": 78.605,
+                  "end": 78.845,
+                  "confidence": 0.99995685,
+                  "punctuated_word": "great"
+                },
+                {
+                  "word": "day",
+                  "start": 78.845,
+                  "end": 79.345,
+                  "confidence": 0.99962425,
+                  "punctuated_word": "day."
+                },
+                {
+                  "word": "great",
+                  "start": 80.525,
+                  "end": 81.025,
+                  "confidence": 0.82118106,
+                  "punctuated_word": "Great."
+                },
+                {
+                  "word": "sure",
+                  "start": 82.19,
+                  "end": 82.51,
+                  "confidence": 0.9981277,
+                  "punctuated_word": "Sure."
+                },
+                {
+                  "word": "i'll",
+                  "start": 82.51,
+                  "end": 82.67,
+                  "confidence": 0.99994344,
+                  "punctuated_word": "I'll"
+                },
+                {
+                  "word": "wait",
+                  "start": 82.67,
+                  "end": 82.83,
+                  "confidence": 0.99947196,
+                  "punctuated_word": "wait."
+                },
+                {
+                  "word": "let",
+                  "start": 82.83,
+                  "end": 82.99,
+                  "confidence": 0.999926,
+                  "punctuated_word": "Let"
+                },
+                {
+                  "word": "me",
+                  "start": 82.99,
+                  "end": 83.07,
+                  "confidence": 0.9998648,
+                  "punctuated_word": "me"
+                },
+                {
+                  "word": "know",
+                  "start": 83.07,
+                  "end": 83.229996,
+                  "confidence": 0.99992466,
+                  "punctuated_word": "know"
+                },
+                {
+                  "word": "when",
+                  "start": 83.229996,
+                  "end": 83.31,
+                  "confidence": 0.9999068,
+                  "punctuated_word": "when"
+                },
+                {
+                  "word": "you're",
+                  "start": 83.31,
+                  "end": 83.55,
+                  "confidence": 0.9997238,
+                  "punctuated_word": "you're"
+                },
+                {
+                  "word": "ready",
+                  "start": 83.55,
+                  "end": 84.05,
+                  "confidence": 0.99977565,
+                  "punctuated_word": "ready."
+                },
+                {
+                  "word": "i",
+                  "start": 85.39,
+                  "end": 85.55,
+                  "confidence": 0.99923086,
+                  "punctuated_word": "I"
+                },
+                {
+                  "word": "want",
+                  "start": 85.55,
+                  "end": 85.87,
+                  "confidence": 0.9858926,
+                  "punctuated_word": "want"
+                },
+                {
+                  "word": "to",
+                  "start": 85.87,
+                  "end": 85.95,
+                  "confidence": 0.9869158,
+                  "punctuated_word": "to"
+                },
+                {
+                  "word": "book",
+                  "start": 85.95,
+                  "end": 86.19,
+                  "confidence": 0.99769956,
+                  "punctuated_word": "book"
+                },
+                {
+                  "word": "a",
+                  "start": 86.19,
+                  "end": 86.69,
+                  "confidence": 0.77941686,
+                  "punctuated_word": "a"
+                },
+                {
+                  "word": "electrician",
+                  "start": 86.75,
+                  "end": 87.25,
+                  "confidence": 0.99693334,
+                  "punctuated_word": "electrician"
+                },
+                {
+                  "word": "for",
+                  "start": 89.71,
+                  "end": 90.11,
+                  "confidence": 0.9932969,
+                  "punctuated_word": "for"
+                },
+                {
+                  "word": "my",
+                  "start": 90.11,
+                  "end": 90.61,
+                  "confidence": 0.99891627,
+                  "punctuated_word": "my"
+                },
+                {
+                  "word": "lighting",
+                  "start": 91.55,
+                  "end": 91.95,
+                  "confidence": 0.8345046,
+                  "punctuated_word": "lighting"
+                },
+                {
+                  "word": "issue",
+                  "start": 91.95,
+                  "end": 92.45,
+                  "confidence": 0.7836573,
+                  "punctuated_word": "issue."
+                },
+                {
+                  "word": "i'm",
+                  "start": 94.045,
+                  "end": 94.284996,
+                  "confidence": 0.9998723,
+                  "punctuated_word": "I'm"
+                },
+                {
+                  "word": "sorry",
+                  "start": 94.284996,
+                  "end": 94.525,
+                  "confidence": 0.8231338,
+                  "punctuated_word": "sorry,"
+                },
+                {
+                  "word": "but",
+                  "start": 94.525,
+                  "end": 94.685,
+                  "confidence": 0.9997974,
+                  "punctuated_word": "but"
+                },
+                {
+                  "word": "i",
+                  "start": 94.685,
+                  "end": 94.765,
+                  "confidence": 0.99986446,
+                  "punctuated_word": "I"
+                },
+                {
+                  "word": "can",
+                  "start": 94.765,
+                  "end": 94.924995,
+                  "confidence": 0.99995863,
+                  "punctuated_word": "can"
+                },
+                {
+                  "word": "only",
+                  "start": 94.924995,
+                  "end": 95.165,
+                  "confidence": 0.999859,
+                  "punctuated_word": "only"
+                },
+                {
+                  "word": "assist",
+                  "start": 95.165,
+                  "end": 95.405,
+                  "confidence": 0.9999826,
+                  "punctuated_word": "assist"
+                },
+                {
+                  "word": "with",
+                  "start": 95.405,
+                  "end": 95.725,
+                  "confidence": 0.9999076,
+                  "punctuated_word": "with"
+                },
+                {
+                  "word": "scheduling",
+                  "start": 95.725,
+                  "end": 96.225,
+                  "confidence": 0.9999403,
+                  "punctuated_word": "scheduling"
+                },
+                {
+                  "word": "appointments",
+                  "start": 96.284996,
+                  "end": 96.784996,
+                  "confidence": 0.9998192,
+                  "punctuated_word": "appointments"
+                },
+                {
+                  "word": "for",
+                  "start": 96.845,
+                  "end": 97.085,
+                  "confidence": 0.99989295,
+                  "punctuated_word": "for"
+                },
+                {
+                  "word": "health",
+                  "start": 97.085,
+                  "end": 97.325,
+                  "confidence": 0.9506095,
+                  "punctuated_word": "health"
+                },
+                {
+                  "word": "care",
+                  "start": 97.325,
+                  "end": 97.825,
+                  "confidence": 0.99953246,
+                  "punctuated_word": "care"
+                },
+                {
+                  "word": "services",
+                  "start": 97.885,
+                  "end": 98.385,
+                  "confidence": 0.9956577,
+                  "punctuated_word": "services"
+                },
+                {
+                  "word": "at",
+                  "start": 98.445,
+                  "end": 98.685,
+                  "confidence": 0.9997143,
+                  "punctuated_word": "at"
+                },
+                {
+                  "word": "wellness",
+                  "start": 98.685,
+                  "end": 99.085,
+                  "confidence": 0.9102742,
+                  "punctuated_word": "Wellness"
+                },
+                {
+                  "word": "partners",
+                  "start": 99.085,
+                  "end": 99.585,
+                  "confidence": 0.99943125,
+                  "punctuated_word": "Partners."
+                },
+                {
+                  "word": "if",
+                  "start": 99.725,
+                  "end": 99.885,
+                  "confidence": 0.99931145,
+                  "punctuated_word": "If"
+                },
+                {
+                  "word": "you",
+                  "start": 99.885,
+                  "end": 100.045,
+                  "confidence": 0.9999809,
+                  "punctuated_word": "you"
+                },
+                {
+                  "word": "need",
+                  "start": 100.045,
+                  "end": 100.284996,
+                  "confidence": 0.9999852,
+                  "punctuated_word": "need"
+                },
+                {
+                  "word": "help",
+                  "start": 100.284996,
+                  "end": 100.445,
+                  "confidence": 0.9999006,
+                  "punctuated_word": "help"
+                },
+                {
+                  "word": "with",
+                  "start": 100.445,
+                  "end": 100.604996,
+                  "confidence": 0.99989223,
+                  "punctuated_word": "with"
+                },
+                {
+                  "word": "lighting",
+                  "start": 100.604996,
+                  "end": 100.924995,
+                  "confidence": 0.9984823,
+                  "punctuated_word": "lighting"
+                },
+                {
+                  "word": "issues",
+                  "start": 100.924995,
+                  "end": 101.424995,
+                  "confidence": 0.9995932,
+                  "punctuated_word": "issues,"
+                },
+                {
+                  "word": "i",
+                  "start": 101.565,
+                  "end": 101.805,
+                  "confidence": 0.99989176,
+                  "punctuated_word": "I"
+                },
+                {
+                  "word": "recommend",
+                  "start": 101.805,
+                  "end": 102.284996,
+                  "confidence": 0.9998816,
+                  "punctuated_word": "recommend"
+                },
+                {
+                  "word": "contacting",
+                  "start": 102.284996,
+                  "end": 102.685,
+                  "confidence": 0.99969995,
+                  "punctuated_word": "contacting"
+                },
+                {
+                  "word": "a",
+                  "start": 102.685,
+                  "end": 102.845,
+                  "confidence": 0.9994203,
+                  "punctuated_word": "a"
+                },
+                {
+                  "word": "local",
+                  "start": 102.845,
+                  "end": 103.165,
+                  "confidence": 0.999984,
+                  "punctuated_word": "local"
+                },
+                {
+                  "word": "electrician",
+                  "start": 103.165,
+                  "end": 103.665,
+                  "confidence": 0.999929,
+                  "punctuated_word": "electrician"
+                },
+                {
+                  "word": "directly",
+                  "start": 103.725,
+                  "end": 104.225,
+                  "confidence": 0.99969625,
+                  "punctuated_word": "directly."
+                },
+                {
+                  "word": "is",
+                  "start": 104.284996,
+                  "end": 104.525,
+                  "confidence": 0.9999441,
+                  "punctuated_word": "Is"
+                },
+                {
+                  "word": "there",
+                  "start": 104.525,
+                  "end": 104.685,
+                  "confidence": 0.9999844,
+                  "punctuated_word": "there"
+                },
+                {
+                  "word": "anything",
+                  "start": 104.685,
+                  "end": 105.085,
+                  "confidence": 0.9998919,
+                  "punctuated_word": "anything"
+                },
+                {
+                  "word": "else",
+                  "start": 105.085,
+                  "end": 105.585,
+                  "confidence": 0.9998336,
+                  "punctuated_word": "else"
+                },
+                {
+                  "word": "i",
+                  "start": 105.965,
+                  "end": 106.125,
+                  "confidence": 0.9995302,
+                  "punctuated_word": "I"
+                },
+                {
+                  "word": "can",
+                  "start": 106.125,
+                  "end": 106.284996,
+                  "confidence": 0.9999609,
+                  "punctuated_word": "can"
+                },
+                {
+                  "word": "help",
+                  "start": 106.284996,
+                  "end": 106.525,
+                  "confidence": 0.99995065,
+                  "punctuated_word": "help"
+                },
+                {
+                  "word": "you",
+                  "start": 106.525,
+                  "end": 106.685,
+                  "confidence": 0.99994147,
+                  "punctuated_word": "you"
+                },
+                {
+                  "word": "with",
+                  "start": 106.685,
+                  "end": 107.165,
+                  "confidence": 0.99992573,
+                  "punctuated_word": "with"
+                },
+                {
+                  "word": "regarding",
+                  "start": 107.165,
+                  "end": 107.565,
+                  "confidence": 0.99776316,
+                  "punctuated_word": "regarding"
+                },
+                {
+                  "word": "health",
+                  "start": 107.565,
+                  "end": 107.725,
+                  "confidence": 0.995795,
+                  "punctuated_word": "health"
+                },
+                {
+                  "word": "care",
+                  "start": 107.725,
+                  "end": 107.965,
+                  "confidence": 0.9991117,
+                  "punctuated_word": "care"
+                },
+                {
+                  "word": "appointments",
+                  "start": 107.965,
+                  "end": 108.465,
+                  "confidence": 0.99950707,
+                  "punctuated_word": "appointments?"
+                },
+                {
+                  "word": "i",
+                  "start": 109.48,
+                  "end": 109.72,
+                  "confidence": 0.9993994,
+                  "punctuated_word": "I"
+                },
+                {
+                  "word": "want",
+                  "start": 109.72,
+                  "end": 110.04,
+                  "confidence": 0.90078115,
+                  "punctuated_word": "want"
+                },
+                {
+                  "word": "to",
+                  "start": 110.04,
+                  "end": 110.12,
+                  "confidence": 0.92797387,
+                  "punctuated_word": "to"
+                },
+                {
+                  "word": "book",
+                  "start": 110.12,
+                  "end": 110.28,
+                  "confidence": 0.841694,
+                  "punctuated_word": "book"
+                },
+                {
+                  "word": "appointments",
+                  "start": 110.28,
+                  "end": 110.78,
+                  "confidence": 0.30381697,
+                  "punctuated_word": "appointments."
+                },
+                {
+                  "word": "i",
+                  "start": 113,
+                  "end": 113.16,
+                  "confidence": 0.98327774,
+                  "punctuated_word": "I"
+                },
+                {
+                  "word": "understand",
+                  "start": 113.16,
+                  "end": 113.66,
+                  "confidence": 0.99931204,
+                  "punctuated_word": "understand."
+                },
+                {
+                  "word": "if",
+                  "start": 113.880005,
+                  "end": 114.12,
+                  "confidence": 0.9993888,
+                  "punctuated_word": "If"
+                },
+                {
+                  "word": "you",
+                  "start": 114.12,
+                  "end": 114.200005,
+                  "confidence": 0.99997175,
+                  "punctuated_word": "you"
+                },
+                {
+                  "word": "have",
+                  "start": 114.200005,
+                  "end": 114.36,
+                  "confidence": 0.9999238,
+                  "punctuated_word": "have"
+                },
+                {
+                  "word": "any",
+                  "start": 114.36,
+                  "end": 114.6,
+                  "confidence": 0.9997322,
+                  "punctuated_word": "any"
+                },
+                {
+                  "word": "health",
+                  "start": 114.6,
+                  "end": 114.840004,
+                  "confidence": 0.99012357,
+                  "punctuated_word": "health"
+                },
+                {
+                  "word": "care",
+                  "start": 114.840004,
+                  "end": 115,
+                  "confidence": 0.9976882,
+                  "punctuated_word": "care"
+                },
+                {
+                  "word": "needs",
+                  "start": 115,
+                  "end": 115.48,
+                  "confidence": 0.9995758,
+                  "punctuated_word": "needs"
+                },
+                {
+                  "word": "or",
+                  "start": 115.48,
+                  "end": 115.98,
+                  "confidence": 0.98679173,
+                  "punctuated_word": "or,"
+                },
+                {
+                  "word": "need",
+                  "start": 116.68,
+                  "end": 116.840004,
+                  "confidence": 0.99965084,
+                  "punctuated_word": "need"
+                },
+                {
+                  "word": "to",
+                  "start": 116.840004,
+                  "end": 117,
+                  "confidence": 0.9998355,
+                  "punctuated_word": "to"
+                },
+                {
+                  "word": "schedule",
+                  "start": 117,
+                  "end": 117.32,
+                  "confidence": 0.9999516,
+                  "punctuated_word": "schedule"
+                },
+                {
+                  "word": "an",
+                  "start": 117.32,
+                  "end": 117.48,
+                  "confidence": 0.9998148,
+                  "punctuated_word": "an"
+                },
+                {
+                  "word": "appointment",
+                  "start": 117.48,
+                  "end": 117.98,
+                  "confidence": 0.9999386,
+                  "punctuated_word": "appointment"
+                },
+                {
+                  "word": "at",
+                  "start": 118.04,
+                  "end": 118.36,
+                  "confidence": 0.99953043,
+                  "punctuated_word": "at"
+                },
+                {
+                  "word": "wellness",
+                  "start": 118.36,
+                  "end": 118.840004,
+                  "confidence": 0.9285836,
+                  "punctuated_word": "Wellness"
+                },
+                {
+                  "word": "partners",
+                  "start": 118.840004,
+                  "end": 119.240005,
+                  "confidence": 0.9969657,
+                  "punctuated_word": "Partners,"
+                },
+                {
+                  "word": "i'm",
+                  "start": 119.240005,
+                  "end": 119.4,
+                  "confidence": 0.9998262,
+                  "punctuated_word": "I'm"
+                },
+                {
+                  "word": "here",
+                  "start": 119.4,
+                  "end": 119.64,
+                  "confidence": 0.999925,
+                  "punctuated_word": "here"
+                },
+                {
+                  "word": "to",
+                  "start": 119.64,
+                  "end": 119.8,
+                  "confidence": 0.999313,
+                  "punctuated_word": "to"
+                },
+                {
+                  "word": "assist",
+                  "start": 119.8,
+                  "end": 120.3,
+                  "confidence": 0.99975854,
+                  "punctuated_word": "assist."
+                },
+                {
+                  "word": "if",
+                  "start": 120.36,
+                  "end": 120.520004,
+                  "confidence": 0.99948835,
+                  "punctuated_word": "If"
+                },
+                {
+                  "word": "there's",
+                  "start": 120.520004,
+                  "end": 120.76,
+                  "confidence": 0.99954903,
+                  "punctuated_word": "there's"
+                },
+                {
+                  "word": "anything",
+                  "start": 120.76,
+                  "end": 121.26,
+                  "confidence": 0.99984217,
+                  "punctuated_word": "anything"
+                },
+                {
+                  "word": "specific",
+                  "start": 121.48,
+                  "end": 121.98,
+                  "confidence": 0.99977857,
+                  "punctuated_word": "specific"
+                },
+                {
+                  "word": "you'd",
+                  "start": 122.28,
+                  "end": 122.520004,
+                  "confidence": 0.99911773,
+                  "punctuated_word": "you'd"
+                },
+                {
+                  "word": "like",
+                  "start": 122.520004,
+                  "end": 122.68,
+                  "confidence": 0.99981433,
+                  "punctuated_word": "like"
+                },
+                {
+                  "word": "help",
+                  "start": 122.68,
+                  "end": 122.92,
+                  "confidence": 0.99915195,
+                  "punctuated_word": "help"
+                },
+                {
+                  "word": "with",
+                  "start": 122.92,
+                  "end": 123.42,
+                  "confidence": 0.9994277,
+                  "punctuated_word": "with,"
+                },
+                {
+                  "word": "please",
+                  "start": 123.48,
+                  "end": 123.72,
+                  "confidence": 0.9998405,
+                  "punctuated_word": "please"
+                },
+                {
+                  "word": "let",
+                  "start": 123.72,
+                  "end": 123.96,
+                  "confidence": 0.9996525,
+                  "punctuated_word": "let"
+                },
+                {
+                  "word": "me",
+                  "start": 123.96,
+                  "end": 124.12,
+                  "confidence": 0.9998178,
+                  "punctuated_word": "me"
+                },
+                {
+                  "word": "know",
+                  "start": 124.12,
+                  "end": 124.62,
+                  "confidence": 0.99927187,
+                  "punctuated_word": "know."
+                },
+                {
+                  "word": "i",
+                  "start": 125.055,
+                  "end": 125.555,
+                  "confidence": 0.34173402,
+                  "punctuated_word": "I"
+                },
+                {
+                  "word": "want",
+                  "start": 131.855,
+                  "end": 131.89499,
+                  "confidence": 0.21520905,
+                  "punctuated_word": "want"
+                },
+                {
+                  "word": "to",
+                  "start": 131.89499,
+                  "end": 131.935,
+                  "confidence": 0.80759686,
+                  "punctuated_word": "to"
+                },
+                {
+                  "word": "look",
+                  "start": 131.935,
+                  "end": 132.015,
+                  "confidence": 0.65382576,
+                  "punctuated_word": "look"
+                },
+                {
+                  "word": "for",
+                  "start": 132.015,
+                  "end": 132.515,
+                  "confidence": 0.60294646,
+                  "punctuated_word": "for"
+                },
+                {
+                  "word": "dentist",
+                  "start": 134.015,
+                  "end": 134.495,
+                  "confidence": 0.6914966,
+                  "punctuated_word": "dentist."
+                },
+                {
+                  "word": "got",
+                  "start": 134.495,
+                  "end": 134.655,
+                  "confidence": 0.78411776,
+                  "punctuated_word": "Got"
+                },
+                {
+                  "word": "it",
+                  "start": 134.655,
+                  "end": 134.895,
+                  "confidence": 0.9997928,
+                  "punctuated_word": "it."
+                },
+                {
+                  "word": "you're",
+                  "start": 134.895,
+                  "end": 135.055,
+                  "confidence": 0.9993837,
+                  "punctuated_word": "You're"
+                },
+                {
+                  "word": "looking",
+                  "start": 135.055,
+                  "end": 135.295,
+                  "confidence": 0.9999541,
+                  "punctuated_word": "looking"
+                },
+                {
+                  "word": "to",
+                  "start": 135.295,
+                  "end": 135.455,
+                  "confidence": 0.9999007,
+                  "punctuated_word": "to"
+                },
+                {
+                  "word": "schedule",
+                  "start": 135.455,
+                  "end": 135.855,
+                  "confidence": 0.9998963,
+                  "punctuated_word": "schedule"
+                },
+                {
+                  "word": "a",
+                  "start": 135.855,
+                  "end": 136.015,
+                  "confidence": 0.99995935,
+                  "punctuated_word": "a"
+                },
+                {
+                  "word": "dental",
+                  "start": 136.015,
+                  "end": 136.335,
+                  "confidence": 0.99961674,
+                  "punctuated_word": "dental"
+                },
+                {
+                  "word": "appointment",
+                  "start": 136.335,
+                  "end": 136.835,
+                  "confidence": 0.98186755,
+                  "punctuated_word": "appointment."
+                },
+                {
+                  "word": "while",
+                  "start": 137.615,
+                  "end": 137.855,
+                  "confidence": 0.93415874,
+                  "punctuated_word": "While"
+                },
+                {
+                  "word": "wellness",
+                  "start": 137.855,
+                  "end": 138.175,
+                  "confidence": 0.7979672,
+                  "punctuated_word": "Wellness"
+                },
+                {
+                  "word": "partners",
+                  "start": 138.175,
+                  "end": 138.675,
+                  "confidence": 0.9952846,
+                  "punctuated_word": "Partners"
+                },
+                {
+                  "word": "specializes",
+                  "start": 138.735,
+                  "end": 139.215,
+                  "confidence": 0.99950874,
+                  "punctuated_word": "specializes"
+                },
+                {
+                  "word": "in",
+                  "start": 139.215,
+                  "end": 139.455,
+                  "confidence": 0.9998516,
+                  "punctuated_word": "in"
+                },
+                {
+                  "word": "medical",
+                  "start": 139.455,
+                  "end": 139.775,
+                  "confidence": 0.999665,
+                  "punctuated_word": "medical"
+                },
+                {
+                  "word": "and",
+                  "start": 139.775,
+                  "end": 139.855,
+                  "confidence": 0.9998272,
+                  "punctuated_word": "and"
+                },
+                {
+                  "word": "wellness",
+                  "start": 139.855,
+                  "end": 140.335,
+                  "confidence": 0.9999846,
+                  "punctuated_word": "wellness"
+                },
+                {
+                  "word": "care",
+                  "start": 140.335,
+                  "end": 140.76,
+                  "confidence": 0.9971981,
+                  "punctuated_word": "care,"
+                },
+                {
+                  "word": "we",
+                  "start": 140.92,
+                  "end": 141.08,
+                  "confidence": 0.99956924,
+                  "punctuated_word": "we"
+                },
+                {
+                  "word": "don't",
+                  "start": 141.08,
+                  "end": 141.12,
+                  "confidence": 0.9999827,
+                  "punctuated_word": "don't"
+                },
+                {
+                  "word": "currently",
+                  "start": 141.12,
+                  "end": 141.15999,
+                  "confidence": 0.9999728,
+                  "punctuated_word": "currently"
+                },
+                {
+                  "word": "offer",
+                  "start": 141.15999,
+                  "end": 141.65999,
+                  "confidence": 0.9999709,
+                  "punctuated_word": "offer"
+                },
+                {
+                  "word": "dental",
+                  "start": 142.12,
+                  "end": 142.59999,
+                  "confidence": 0.9997956,
+                  "punctuated_word": "dental"
+                },
+                {
+                  "word": "services",
+                  "start": 142.59999,
+                  "end": 143,
+                  "confidence": 0.99702084,
+                  "punctuated_word": "services."
+                },
+                {
+                  "word": "i'd",
+                  "start": 143,
+                  "end": 143.23999,
+                  "confidence": 0.998474,
+                  "punctuated_word": "I'd"
+                },
+                {
+                  "word": "recommend",
+                  "start": 143.23999,
+                  "end": 143.73999,
+                  "confidence": 0.99995244,
+                  "punctuated_word": "recommend"
+                },
+                {
+                  "word": "reaching",
+                  "start": 144.04,
+                  "end": 144.36,
+                  "confidence": 0.99993443,
+                  "punctuated_word": "reaching"
+                },
+                {
+                  "word": "out",
+                  "start": 144.36,
+                  "end": 144.51999,
+                  "confidence": 0.9998727,
+                  "punctuated_word": "out"
+                },
+                {
+                  "word": "to",
+                  "start": 144.51999,
+                  "end": 145.01999,
+                  "confidence": 0.99973994,
+                  "punctuated_word": "to"
+                },
+                {
+                  "word": "a",
+                  "start": 145.07999,
+                  "end": 145.23999,
+                  "confidence": 0.99985445,
+                  "punctuated_word": "a"
+                },
+                {
+                  "word": "dental",
+                  "start": 145.23999,
+                  "end": 145.56,
+                  "confidence": 0.9997726,
+                  "punctuated_word": "dental"
+                },
+                {
+                  "word": "clinic",
+                  "start": 145.56,
+                  "end": 145.79999,
+                  "confidence": 0.99986076,
+                  "punctuated_word": "clinic"
+                },
+                {
+                  "word": "in",
+                  "start": 145.79999,
+                  "end": 145.95999,
+                  "confidence": 0.99991107,
+                  "punctuated_word": "in"
+                },
+                {
+                  "word": "your",
+                  "start": 145.95999,
+                  "end": 146.12,
+                  "confidence": 0.9999788,
+                  "punctuated_word": "your"
+                },
+                {
+                  "word": "area",
+                  "start": 146.12,
+                  "end": 146.43999,
+                  "confidence": 0.9999826,
+                  "punctuated_word": "area"
+                },
+                {
+                  "word": "for",
+                  "start": 146.43999,
+                  "end": 146.68,
+                  "confidence": 0.9999441,
+                  "punctuated_word": "for"
+                },
+                {
+                  "word": "assistance",
+                  "start": 146.68,
+                  "end": 147.18,
+                  "confidence": 0.9994384,
+                  "punctuated_word": "assistance."
+                },
+                {
+                  "word": "if",
+                  "start": 147.4,
+                  "end": 147.56,
+                  "confidence": 0.99926454,
+                  "punctuated_word": "If"
+                },
+                {
+                  "word": "there's",
+                  "start": 147.56,
+                  "end": 147.79999,
+                  "confidence": 0.9998585,
+                  "punctuated_word": "there's"
+                },
+                {
+                  "word": "anything",
+                  "start": 147.79999,
+                  "end": 148.04,
+                  "confidence": 0.999882,
+                  "punctuated_word": "anything"
+                },
+                {
+                  "word": "else",
+                  "start": 148.04,
+                  "end": 148.28,
+                  "confidence": 0.99992824,
+                  "punctuated_word": "else"
+                },
+                {
+                  "word": "i",
+                  "start": 148.28,
+                  "end": 148.36,
+                  "confidence": 0.9994356,
+                  "punctuated_word": "I"
+                },
+                {
+                  "word": "can",
+                  "start": 148.36,
+                  "end": 148.51999,
+                  "confidence": 0.9999405,
+                  "punctuated_word": "can"
+                },
+                {
+                  "word": "help",
+                  "start": 148.51999,
+                  "end": 148.68,
+                  "confidence": 0.9999367,
+                  "punctuated_word": "help"
+                },
+                {
+                  "word": "you",
+                  "start": 148.68,
+                  "end": 148.84,
+                  "confidence": 0.9999552,
+                  "punctuated_word": "you"
+                },
+                {
+                  "word": "with",
+                  "start": 148.84,
+                  "end": 149.23999,
+                  "confidence": 0.93958116,
+                  "punctuated_word": "with,"
+                },
+                {
+                  "word": "like",
+                  "start": 149.23999,
+                  "end": 149.73999,
+                  "confidence": 0.9999243,
+                  "punctuated_word": "like"
+                },
+                {
+                  "word": "scheduling",
+                  "start": 150.2,
+                  "end": 150.68,
+                  "confidence": 0.94465506,
+                  "punctuated_word": "scheduling"
+                },
+                {
+                  "word": "a",
+                  "start": 150.68,
+                  "end": 150.92,
+                  "confidence": 0.9924115,
+                  "punctuated_word": "a"
+                },
+                {
+                  "word": "medical",
+                  "start": 150.92,
+                  "end": 151.4,
+                  "confidence": 0.9998209,
+                  "punctuated_word": "medical"
+                },
+                {
+                  "word": "or",
+                  "start": 151.4,
+                  "end": 151.56,
+                  "confidence": 0.99920976,
+                  "punctuated_word": "or"
+                },
+                {
+                  "word": "wellness",
+                  "start": 151.56,
+                  "end": 151.95999,
+                  "confidence": 0.9382881,
+                  "punctuated_word": "wellness"
+                },
+                {
+                  "word": "appointment",
+                  "start": 151.95999,
+                  "end": 152.45999,
+                  "confidence": 0.9986659,
+                  "punctuated_word": "appointment,"
+                },
+                {
+                  "word": "feel",
+                  "start": 152.84,
+                  "end": 153.07999,
+                  "confidence": 0.99980575,
+                  "punctuated_word": "feel"
+                },
+                {
+                  "word": "free",
+                  "start": 153.07999,
+                  "end": 153.31999,
+                  "confidence": 0.9999485,
+                  "punctuated_word": "free"
+                },
+                {
+                  "word": "to",
+                  "start": 153.31999,
+                  "end": 153.48,
+                  "confidence": 0.9999472,
+                  "punctuated_word": "to"
+                },
+                {
+                  "word": "let",
+                  "start": 153.48,
+                  "end": 153.72,
+                  "confidence": 0.9999784,
+                  "punctuated_word": "let"
+                },
+                {
+                  "word": "me",
+                  "start": 153.72,
+                  "end": 153.79999,
+                  "confidence": 0.99995244,
+                  "punctuated_word": "me"
+                },
+                {
+                  "word": "know",
+                  "start": 153.79999,
+                  "end": 154.29999,
+                  "confidence": 0.9999074,
+                  "punctuated_word": "know."
+                },
+                {
+                  "word": "i",
+                  "start": 155.085,
+                  "end": 155.585,
+                  "confidence": 0.99971825,
+                  "punctuated_word": "I"
+                },
+                {
+                  "word": "want",
+                  "start": 156.045,
+                  "end": 156.545,
+                  "confidence": 0.99974126,
+                  "punctuated_word": "want"
+                },
+                {
+                  "word": "to",
+                  "start": 157.245,
+                  "end": 157.405,
+                  "confidence": 0.9997868,
+                  "punctuated_word": "to"
+                },
+                {
+                  "word": "book",
+                  "start": 157.405,
+                  "end": 157.905,
+                  "confidence": 0.99896514,
+                  "punctuated_word": "book"
+                },
+                {
+                  "word": "a",
+                  "start": 157.965,
+                  "end": 158.285,
+                  "confidence": 0.99334127,
+                  "punctuated_word": "a"
+                },
+                {
+                  "word": "yoga",
+                  "start": 158.285,
+                  "end": 158.685,
+                  "confidence": 0.99939454,
+                  "punctuated_word": "yoga"
+                },
+                {
+                  "word": "teacher",
+                  "start": 158.685,
+                  "end": 159.185,
+                  "confidence": 0.99896026,
+                  "punctuated_word": "teacher."
+                },
+                {
+                  "word": "wellness",
+                  "start": 160.685,
+                  "end": 161.085,
+                  "confidence": 0.99848217,
+                  "punctuated_word": "Wellness"
+                },
+                {
+                  "word": "partners",
+                  "start": 161.085,
+                  "end": 161.565,
+                  "confidence": 0.98369414,
+                  "punctuated_word": "Partners"
+                },
+                {
+                  "word": "doesn't",
+                  "start": 161.565,
+                  "end": 161.965,
+                  "confidence": 0.999696,
+                  "punctuated_word": "doesn't"
+                },
+                {
+                  "word": "specifically",
+                  "start": 161.965,
+                  "end": 162.465,
+                  "confidence": 0.99955136,
+                  "punctuated_word": "specifically"
+                },
+                {
+                  "word": "offer",
+                  "start": 162.525,
+                  "end": 162.925,
+                  "confidence": 0.9999167,
+                  "punctuated_word": "offer"
+                },
+                {
+                  "word": "yoga",
+                  "start": 162.925,
+                  "end": 163.245,
+                  "confidence": 0.9997259,
+                  "punctuated_word": "yoga"
+                },
+                {
+                  "word": "instruction",
+                  "start": 163.245,
+                  "end": 163.745,
+                  "confidence": 0.9892234,
+                  "punctuated_word": "instruction,"
+                },
+                {
+                  "word": "but",
+                  "start": 164.125,
+                  "end": 164.525,
+                  "confidence": 0.9987355,
+                  "punctuated_word": "but"
+                },
+                {
+                  "word": "we",
+                  "start": 164.525,
+                  "end": 164.765,
+                  "confidence": 0.9999151,
+                  "punctuated_word": "we"
+                },
+                {
+                  "word": "do",
+                  "start": 164.765,
+                  "end": 165.085,
+                  "confidence": 0.9999684,
+                  "punctuated_word": "do"
+                },
+                {
+                  "word": "provide",
+                  "start": 165.085,
+                  "end": 165.585,
+                  "confidence": 0.9917565,
+                  "punctuated_word": "provide,"
+                },
+                {
+                  "word": "wellness",
+                  "start": 166.045,
+                  "end": 166.525,
+                  "confidence": 0.99961025,
+                  "punctuated_word": "wellness"
+                },
+                {
+                  "word": "services",
+                  "start": 166.525,
+                  "end": 167.005,
+                  "confidence": 0.9998946,
+                  "punctuated_word": "services"
+                },
+                {
+                  "word": "like",
+                  "start": 167.005,
+                  "end": 167.405,
+                  "confidence": 0.79729396,
+                  "punctuated_word": "like"
+                },
+                {
+                  "word": "nutrition",
+                  "start": 167.405,
+                  "end": 167.905,
+                  "confidence": 0.9982278,
+                  "punctuated_word": "nutrition"
+                },
+                {
+                  "word": "counseling",
+                  "start": 167.965,
+                  "end": 168.465,
+                  "confidence": 0.99073327,
+                  "punctuated_word": "counseling,"
+                },
+                {
+                  "word": "physical",
+                  "start": 168.525,
+                  "end": 168.925,
+                  "confidence": 0.99995327,
+                  "punctuated_word": "physical"
+                },
+                {
+                  "word": "therapy",
+                  "start": 168.925,
+                  "end": 169.425,
+                  "confidence": 0.99632937,
+                  "punctuated_word": "therapy,"
+                },
+                {
+                  "word": "and",
+                  "start": 169.8,
+                  "end": 170.12,
+                  "confidence": 0.9999119,
+                  "punctuated_word": "and"
+                },
+                {
+                  "word": "mental",
+                  "start": 170.12,
+                  "end": 170.52,
+                  "confidence": 0.9998752,
+                  "punctuated_word": "mental"
+                },
+                {
+                  "word": "health",
+                  "start": 170.52,
+                  "end": 170.84,
+                  "confidence": 0.9998605,
+                  "punctuated_word": "health"
+                },
+                {
+                  "word": "support",
+                  "start": 170.84,
+                  "end": 171.34,
+                  "confidence": 0.9981706,
+                  "punctuated_word": "support."
+                },
+                {
+                  "word": "if",
+                  "start": 171.4,
+                  "end": 171.56,
+                  "confidence": 0.9995271,
+                  "punctuated_word": "If"
+                },
+                {
+                  "word": "you're",
+                  "start": 171.56,
+                  "end": 171.8,
+                  "confidence": 0.9999192,
+                  "punctuated_word": "you're"
+                },
+                {
+                  "word": "interested",
+                  "start": 171.8,
+                  "end": 172.2,
+                  "confidence": 0.99995756,
+                  "punctuated_word": "interested"
+                },
+                {
+                  "word": "in",
+                  "start": 172.2,
+                  "end": 172.36,
+                  "confidence": 0.9996517,
+                  "punctuated_word": "in"
+                },
+                {
+                  "word": "any",
+                  "start": 172.36,
+                  "end": 172.52,
+                  "confidence": 0.99995697,
+                  "punctuated_word": "any"
+                },
+                {
+                  "word": "of",
+                  "start": 172.52,
+                  "end": 172.59999,
+                  "confidence": 0.9999447,
+                  "punctuated_word": "of"
+                },
+                {
+                  "word": "those",
+                  "start": 172.59999,
+                  "end": 173.08,
+                  "confidence": 0.9995297,
+                  "punctuated_word": "those,"
+                },
+                {
+                  "word": "i",
+                  "start": 173.08,
+                  "end": 173.16,
+                  "confidence": 0.9998901,
+                  "punctuated_word": "I"
+                },
+                {
+                  "word": "can",
+                  "start": 173.16,
+                  "end": 173.31999,
+                  "confidence": 0.9998535,
+                  "punctuated_word": "can"
+                },
+                {
+                  "word": "help",
+                  "start": 173.31999,
+                  "end": 173.56,
+                  "confidence": 0.99990857,
+                  "punctuated_word": "help"
+                },
+                {
+                  "word": "schedule",
+                  "start": 173.56,
+                  "end": 173.88,
+                  "confidence": 0.9998016,
+                  "punctuated_word": "schedule"
+                },
+                {
+                  "word": "an",
+                  "start": 173.88,
+                  "end": 174.04,
+                  "confidence": 0.9948885,
+                  "punctuated_word": "an"
+                },
+                {
+                  "word": "appointment",
+                  "start": 174.04,
+                  "end": 174.54,
+                  "confidence": 0.9993482,
+                  "punctuated_word": "appointment."
+                },
+                {
+                  "word": "for",
+                  "start": 174.84,
+                  "end": 175.23999,
+                  "confidence": 0.9998154,
+                  "punctuated_word": "For"
+                },
+                {
+                  "word": "yoga",
+                  "start": 175.23999,
+                  "end": 175.56,
+                  "confidence": 0.9997062,
+                  "punctuated_word": "yoga"
+                },
+                {
+                  "word": "classes",
+                  "start": 175.56,
+                  "end": 176.04,
+                  "confidence": 0.999402,
+                  "punctuated_word": "classes,"
+                },
+                {
+                  "word": "i",
+                  "start": 176.04,
+                  "end": 176.28,
+                  "confidence": 0.99992955,
+                  "punctuated_word": "I"
+                },
+                {
+                  "word": "recommend",
+                  "start": 176.28,
+                  "end": 176.78,
+                  "confidence": 0.99987316,
+                  "punctuated_word": "recommend"
+                },
+                {
+                  "word": "reaching",
+                  "start": 177.16,
+                  "end": 177.48,
+                  "confidence": 0.9999021,
+                  "punctuated_word": "reaching"
+                },
+                {
+                  "word": "out",
+                  "start": 177.48,
+                  "end": 177.72,
+                  "confidence": 0.9998118,
+                  "punctuated_word": "out"
+                },
+                {
+                  "word": "to",
+                  "start": 177.72,
+                  "end": 178.04,
+                  "confidence": 0.9996908,
+                  "punctuated_word": "to"
+                },
+                {
+                  "word": "a",
+                  "start": 178.04,
+                  "end": 178.2,
+                  "confidence": 0.9996563,
+                  "punctuated_word": "a"
+                },
+                {
+                  "word": "local",
+                  "start": 178.2,
+                  "end": 178.59999,
+                  "confidence": 0.9999379,
+                  "punctuated_word": "local"
+                },
+                {
+                  "word": "yoga",
+                  "start": 178.59999,
+                  "end": 178.84,
+                  "confidence": 0.9992686,
+                  "punctuated_word": "yoga"
+                },
+                {
+                  "word": "studio",
+                  "start": 178.84,
+                  "end": 179.34,
+                  "confidence": 0.9996799,
+                  "punctuated_word": "studio"
+                },
+                {
+                  "word": "or",
+                  "start": 179.48,
+                  "end": 179.8,
+                  "confidence": 0.99738747,
+                  "punctuated_word": "or"
+                },
+                {
+                  "word": "instructor",
+                  "start": 179.8,
+                  "end": 180.3,
+                  "confidence": 0.99678016,
+                  "punctuated_word": "instructor."
+                },
+                {
+                  "word": "let",
+                  "start": 180.52,
+                  "end": 180.68,
+                  "confidence": 0.9998252,
+                  "punctuated_word": "Let"
+                },
+                {
+                  "word": "me",
+                  "start": 180.68,
+                  "end": 180.84,
+                  "confidence": 0.99992,
+                  "punctuated_word": "me"
+                },
+                {
+                  "word": "know",
+                  "start": 180.84,
+                  "end": 181,
+                  "confidence": 0.999946,
+                  "punctuated_word": "know"
+                },
+                {
+                  "word": "if",
+                  "start": 181,
+                  "end": 181.08,
+                  "confidence": 0.999881,
+                  "punctuated_word": "if"
+                },
+                {
+                  "word": "there's",
+                  "start": 181.08,
+                  "end": 181.48,
+                  "confidence": 0.9997219,
+                  "punctuated_word": "there's"
+                },
+                {
+                  "word": "anything",
+                  "start": 181.48,
+                  "end": 181.8,
+                  "confidence": 0.9997085,
+                  "punctuated_word": "anything"
+                },
+                {
+                  "word": "else",
+                  "start": 181.8,
+                  "end": 182.04,
+                  "confidence": 0.99987495,
+                  "punctuated_word": "else"
+                },
+                {
+                  "word": "i",
+                  "start": 182.04,
+                  "end": 182.12,
+                  "confidence": 0.99914026,
+                  "punctuated_word": "I"
+                },
+                {
+                  "word": "can",
+                  "start": 182.12,
+                  "end": 182.36,
+                  "confidence": 0.99996614,
+                  "punctuated_word": "can"
+                },
+                {
+                  "word": "assist",
+                  "start": 182.36,
+                  "end": 182.59999,
+                  "confidence": 0.9999527,
+                  "punctuated_word": "assist"
+                },
+                {
+                  "word": "you",
+                  "start": 182.59999,
+                  "end": 182.76,
+                  "confidence": 0.9997774,
+                  "punctuated_word": "you"
+                },
+                {
+                  "word": "with",
+                  "start": 182.76,
+                  "end": 183.26,
+                  "confidence": 0.9991596,
+                  "punctuated_word": "with."
+                },
+                {
+                  "word": "okay",
+                  "start": 191.94493,
+                  "end": 192.34494,
+                  "confidence": 0.75583357,
+                  "punctuated_word": "Okay."
+                },
+                {
+                  "word": "thank",
+                  "start": 192.34494,
+                  "end": 192.58493,
+                  "confidence": 0.9991672,
+                  "punctuated_word": "Thank"
+                },
+                {
+                  "word": "you",
+                  "start": 192.58493,
+                  "end": 193.08493,
+                  "confidence": 0.99989015,
+                  "punctuated_word": "you."
+                },
+                {
+                  "word": "you're",
+                  "start": 194.42494,
+                  "end": 194.66493,
+                  "confidence": 0.9994073,
+                  "punctuated_word": "You're"
+                },
+                {
+                  "word": "welcome",
+                  "start": 194.66493,
+                  "end": 195.16493,
+                  "confidence": 0.9998615,
+                  "punctuated_word": "welcome."
+                },
+                {
+                  "word": "if",
+                  "start": 195.38493,
+                  "end": 195.62494,
+                  "confidence": 0.99941075,
+                  "punctuated_word": "If"
+                },
+                {
+                  "word": "you",
+                  "start": 195.62494,
+                  "end": 195.70494,
+                  "confidence": 0.99993956,
+                  "punctuated_word": "you"
+                },
+                {
+                  "word": "ever",
+                  "start": 195.70494,
+                  "end": 195.94493,
+                  "confidence": 0.99994504,
+                  "punctuated_word": "ever"
+                },
+                {
+                  "word": "need",
+                  "start": 195.94493,
+                  "end": 196.10493,
+                  "confidence": 0.9682128,
+                  "punctuated_word": "need"
+                },
+                {
+                  "word": "assistance",
+                  "start": 196.10493,
+                  "end": 196.60493,
+                  "confidence": 0.9931704,
+                  "punctuated_word": "assistance"
+                },
+                {
+                  "word": "with",
+                  "start": 197.46494,
+                  "end": 197.94493,
+                  "confidence": 0.999315,
+                  "punctuated_word": "with"
+                },
+                {
+                  "word": "scheduling",
+                  "start": 197.94493,
+                  "end": 198.42494,
+                  "confidence": 0.9998672,
+                  "punctuated_word": "scheduling"
+                },
+                {
+                  "word": "a",
+                  "start": 198.42494,
+                  "end": 198.66493,
+                  "confidence": 0.9998404,
+                  "punctuated_word": "a"
+                },
+                {
+                  "word": "health",
+                  "start": 198.66493,
+                  "end": 198.82494,
+                  "confidence": 0.9189685,
+                  "punctuated_word": "health"
+                },
+                {
+                  "word": "care",
+                  "start": 198.82494,
+                  "end": 199.06494,
+                  "confidence": 0.9993375,
+                  "punctuated_word": "care"
+                },
+                {
+                  "word": "appointment",
+                  "start": 199.06494,
+                  "end": 199.56494,
+                  "confidence": 0.9800981,
+                  "punctuated_word": "appointment"
+                },
+                {
+                  "word": "at",
+                  "start": 199.78494,
+                  "end": 200.02493,
+                  "confidence": 0.99906534,
+                  "punctuated_word": "at"
+                },
+                {
+                  "word": "wellness",
+                  "start": 200.02493,
+                  "end": 200.34494,
+                  "confidence": 0.8448955,
+                  "punctuated_word": "Wellness"
+                },
+                {
+                  "word": "partners",
+                  "start": 200.34494,
+                  "end": 200.84494,
+                  "confidence": 0.9988582,
+                  "punctuated_word": "Partners,"
+                },
+                {
+                  "word": "feel",
+                  "start": 201.22495,
+                  "end": 201.54494,
+                  "confidence": 0.9995009,
+                  "punctuated_word": "feel"
+                },
+                {
+                  "word": "free",
+                  "start": 201.54494,
+                  "end": 201.86494,
+                  "confidence": 0.9999347,
+                  "punctuated_word": "free"
+                },
+                {
+                  "word": "to",
+                  "start": 201.86494,
+                  "end": 202.10493,
+                  "confidence": 0.99980336,
+                  "punctuated_word": "to"
+                },
+                {
+                  "word": "reach",
+                  "start": 202.10493,
+                  "end": 202.26494,
+                  "confidence": 0.9999248,
+                  "punctuated_word": "reach"
+                },
+                {
+                  "word": "out",
+                  "start": 202.26494,
+                  "end": 202.74,
+                  "confidence": 0.99860454,
+                  "punctuated_word": "out."
+                }
+              ],
+              "paragraphs": {
+                "transcript": "\nThank you for calling Wellness Partners. This is Riley, your scheduling assistant. How may I help you today? Hi, Riley. Can you hear me?\n\nYes. I Sorry. Yes. I can hear you. How may I assist you today?\n\nI'm a software developer. Can you hear me? I'm here to help you with scheduling an appointment at Wellness Partners. How may I assist you with your health care needs today? Oh, great.\n\nI'm glad to hear that. What type of appointment are are you looking to schedule today? Just testing the CAPI. Got it. Thanks for letting me know.\n\nIf you ever need help scheduling a real appointment at Wellness Partners, I'll be here to assist. Have a great day. Please wait. Wait. Wait.\n\nOf course. Take your time. I'm here whenever you're ready. Yeah. Thank you.\n\nYou're welcome. If you have any other questions or need assistance in the future, feel free to reach out. Have a great day. Great. Sure.\n\nI'll wait. Let me know when you're ready. I want to book a electrician for my lighting issue. I'm sorry, but I can only assist with scheduling appointments for health care services at Wellness Partners. If you need help with lighting issues, I recommend contacting a local electrician directly.\n\nIs there anything else I can help you with regarding health care appointments? I want to book appointments. I understand. If you have any health care needs or, need to schedule an appointment at Wellness Partners, I'm here to assist. If there's anything specific you'd like help with, please let me know.\n\nI want to look for dentist. Got it. You're looking to schedule a dental appointment. While Wellness Partners specializes in medical and wellness care, we don't currently offer dental services. I'd recommend reaching out to a dental clinic in your area for assistance.\n\nIf there's anything else I can help you with, like scheduling a medical or wellness appointment, feel free to let me know. I want to book a yoga teacher. Wellness Partners doesn't specifically offer yoga instruction, but we do provide, wellness services like nutrition counseling, physical therapy, and mental health support. If you're interested in any of those, I can help schedule an appointment. For yoga classes, I recommend reaching out to a local yoga studio or instructor.\n\nLet me know if there's anything else I can assist you with. Okay. Thank you. You're welcome. If you ever need assistance with scheduling a health care appointment at Wellness Partners, feel free to reach out.",
+                "paragraphs": [
+                  {
+                    "sentences": [
+                      {
+                        "text": "Thank you for calling Wellness Partners.",
+                        "start": 0.32,
+                        "end": 2.6599998
+                      },
+                      {
+                        "text": "This is Riley, your scheduling assistant.",
+                        "start": 2.8,
+                        "end": 4.8199997
+                      },
+                      {
+                        "text": "How may I help you today?",
+                        "start": 5.12,
+                        "end": 6.5
+                      },
+                      {
+                        "text": "Hi, Riley.",
+                        "start": 9.2,
+                        "end": 10.0199995
+                      },
+                      {
+                        "text": "Can you hear me?",
+                        "start": 10.48,
+                        "end": 11.7
+                      }
+                    ],
+                    "num_words": 24,
+                    "start": 0.32,
+                    "end": 11.7
+                  },
+                  {
+                    "sentences": [
+                      {
+                        "text": "Yes.",
+                        "start": 13.525,
+                        "end": 13.684999
+                      },
+                      {
+                        "text": "I Sorry.",
+                        "start": 13.684999,
+                        "end": 15.705
+                      },
+                      {
+                        "text": "Yes.",
+                        "start": 16.725,
+                        "end": 17.045
+                      },
+                      {
+                        "text": "I can hear you.",
+                        "start": 17.045,
+                        "end": 17.925
+                      },
+                      {
+                        "text": "How may I assist you today?",
+                        "start": 17.925,
+                        "end": 19.465
+                      }
+                    ],
+                    "num_words": 14,
+                    "start": 13.525,
+                    "end": 19.465
+                  },
+                  {
+                    "sentences": [
+                      {
+                        "text": "I'm a software developer.",
+                        "start": 20.325,
+                        "end": 21.765
+                      },
+                      {
+                        "text": "Can you hear me?",
+                        "start": 21.765,
+                        "end": 22.744999
+                      },
+                      {
+                        "text": "I'm here to help you with scheduling an appointment at Wellness Partners.",
+                        "start": 23.925,
+                        "end": 27.625
+                      },
+                      {
+                        "text": "How may I assist you with your health care needs today?",
+                        "start": 27.92,
+                        "end": 30.82
+                      },
+                      {
+                        "text": "Oh, great.",
+                        "start": 32.96,
+                        "end": 33.78
+                      }
+                    ],
+                    "num_words": 33,
+                    "start": 20.325,
+                    "end": 33.78
+                  },
+                  {
+                    "sentences": [
+                      {
+                        "text": "I'm glad to hear that.",
+                        "start": 36.8,
+                        "end": 38.02
+                      },
+                      {
+                        "text": "What type of appointment are are you looking to schedule today?",
+                        "start": 38.559998,
+                        "end": 41.38
+                      },
+                      {
+                        "text": "Just testing the CAPI.",
+                        "start": 44.745,
+                        "end": 46.125
+                      },
+                      {
+                        "text": "Got it.",
+                        "start": 48.185,
+                        "end": 48.585
+                      },
+                      {
+                        "text": "Thanks for letting me know.",
+                        "start": 48.585,
+                        "end": 49.885
+                      }
+                    ],
+                    "num_words": 27,
+                    "start": 36.8,
+                    "end": 49.885
+                  },
+                  {
+                    "sentences": [
+                      {
+                        "text": "If you ever need help scheduling a real appointment at Wellness Partners, I'll be here to assist.",
+                        "start": 50.105,
+                        "end": 55.885
+                      },
+                      {
+                        "text": "Have a great day.",
+                        "start": 55.945,
+                        "end": 56.925
+                      },
+                      {
+                        "text": "Please wait.",
+                        "start": 58.670002,
+                        "end": 59.49
+                      },
+                      {
+                        "text": "Wait.",
+                        "start": 61.95,
+                        "end": 62.45
+                      },
+                      {
+                        "text": "Wait.",
+                        "start": 63.39,
+                        "end": 63.89
+                      }
+                    ],
+                    "num_words": 25,
+                    "start": 50.105,
+                    "end": 63.89
+                  },
+                  {
+                    "sentences": [
+                      {
+                        "text": "Of course.",
+                        "start": 64.83,
+                        "end": 65.49
+                      },
+                      {
+                        "text": "Take your time.",
+                        "start": 65.71,
+                        "end": 66.69
+                      },
+                      {
+                        "text": "I'm here whenever you're ready.",
+                        "start": 66.75,
+                        "end": 68.61
+                      },
+                      {
+                        "text": "Yeah.",
+                        "start": 70.205,
+                        "end": 70.525
+                      },
+                      {
+                        "text": "Thank you.",
+                        "start": 70.525,
+                        "end": 71.265
+                      }
+                    ],
+                    "num_words": 13,
+                    "start": 64.83,
+                    "end": 71.265
+                  },
+                  {
+                    "sentences": [
+                      {
+                        "text": "You're welcome.",
+                        "start": 72.605,
+                        "end": 73.345
+                      },
+                      {
+                        "text": "If you have any other questions or need assistance in the future, feel free to reach out.",
+                        "start": 73.485,
+                        "end": 77.985
+                      },
+                      {
+                        "text": "Have a great day.",
+                        "start": 78.285,
+                        "end": 79.345
+                      },
+                      {
+                        "text": "Great.",
+                        "start": 80.525,
+                        "end": 81.025
+                      },
+                      {
+                        "text": "Sure.",
+                        "start": 82.19,
+                        "end": 82.51
+                      }
+                    ],
+                    "num_words": 25,
+                    "start": 72.605,
+                    "end": 82.51
+                  },
+                  {
+                    "sentences": [
+                      {
+                        "text": "I'll wait.",
+                        "start": 82.51,
+                        "end": 82.83
+                      },
+                      {
+                        "text": "Let me know when you're ready.",
+                        "start": 82.83,
+                        "end": 84.05
+                      },
+                      {
+                        "text": "I want to book a electrician for my lighting issue.",
+                        "start": 85.39,
+                        "end": 92.45
+                      },
+                      {
+                        "text": "I'm sorry, but I can only assist with scheduling appointments for health care services at Wellness Partners.",
+                        "start": 94.045,
+                        "end": 99.585
+                      },
+                      {
+                        "text": "If you need help with lighting issues, I recommend contacting a local electrician directly.",
+                        "start": 99.725,
+                        "end": 104.225
+                      }
+                    ],
+                    "num_words": 49,
+                    "start": 82.51,
+                    "end": 104.225
+                  },
+                  {
+                    "sentences": [
+                      {
+                        "text": "Is there anything else I can help you with regarding health care appointments?",
+                        "start": 104.284996,
+                        "end": 108.465
+                      },
+                      {
+                        "text": "I want to book appointments.",
+                        "start": 109.48,
+                        "end": 110.78
+                      },
+                      {
+                        "text": "I understand.",
+                        "start": 113,
+                        "end": 113.66
+                      },
+                      {
+                        "text": "If you have any health care needs or, need to schedule an appointment at Wellness Partners, I'm here to assist.",
+                        "start": 113.880005,
+                        "end": 120.3
+                      },
+                      {
+                        "text": "If there's anything specific you'd like help with, please let me know.",
+                        "start": 120.36,
+                        "end": 124.62
+                      }
+                    ],
+                    "num_words": 52,
+                    "start": 104.284996,
+                    "end": 124.62
+                  },
+                  {
+                    "sentences": [
+                      {
+                        "text": "I want to look for dentist.",
+                        "start": 125.055,
+                        "end": 134.495
+                      },
+                      {
+                        "text": "Got it.",
+                        "start": 134.495,
+                        "end": 134.895
+                      },
+                      {
+                        "text": "You're looking to schedule a dental appointment.",
+                        "start": 134.895,
+                        "end": 136.835
+                      },
+                      {
+                        "text": "While Wellness Partners specializes in medical and wellness care, we don't currently offer dental services.",
+                        "start": 137.615,
+                        "end": 143
+                      },
+                      {
+                        "text": "I'd recommend reaching out to a dental clinic in your area for assistance.",
+                        "start": 143,
+                        "end": 147.18
+                      }
+                    ],
+                    "num_words": 43,
+                    "start": 125.055,
+                    "end": 147.18
+                  },
+                  {
+                    "sentences": [
+                      {
+                        "text": "If there's anything else I can help you with, like scheduling a medical or wellness appointment, feel free to let me know.",
+                        "start": 147.4,
+                        "end": 154.29999
+                      },
+                      {
+                        "text": "I want to book a yoga teacher.",
+                        "start": 155.085,
+                        "end": 159.185
+                      },
+                      {
+                        "text": "Wellness Partners doesn't specifically offer yoga instruction, but we do provide, wellness services like nutrition counseling, physical therapy, and mental health support.",
+                        "start": 160.685,
+                        "end": 171.34
+                      },
+                      {
+                        "text": "If you're interested in any of those, I can help schedule an appointment.",
+                        "start": 171.4,
+                        "end": 174.54
+                      },
+                      {
+                        "text": "For yoga classes, I recommend reaching out to a local yoga studio or instructor.",
+                        "start": 174.84,
+                        "end": 180.3
+                      }
+                    ],
+                    "num_words": 78,
+                    "start": 147.4,
+                    "end": 180.3
+                  },
+                  {
+                    "sentences": [
+                      {
+                        "text": "Let me know if there's anything else I can assist you with.",
+                        "start": 180.52,
+                        "end": 183.26
+                      },
+                      {
+                        "text": "Okay.",
+                        "start": 191.94493,
+                        "end": 192.34494
+                      },
+                      {
+                        "text": "Thank you.",
+                        "start": 192.34494,
+                        "end": 193.08493
+                      },
+                      {
+                        "text": "You're welcome.",
+                        "start": 194.42494,
+                        "end": 195.16493
+                      },
+                      {
+                        "text": "If you ever need assistance with scheduling a health care appointment at Wellness Partners, feel free to reach out.",
+                        "start": 195.38493,
+                        "end": 202.74
+                      }
+                    ],
+                    "num_words": 36,
+                    "start": 180.52,
+                    "end": 202.74
+                  }
+                ]
+              }
+            }
+          ],
+          "detected_language": "en",
+          "language_confidence": 0.9682052
+        }
+      ]
+    }
+  }
